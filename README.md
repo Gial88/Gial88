@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/Gial88">
-  <img height="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gial88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gial88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
      <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gial88&layout=compact&theme=outrun&langs_count=8&card_width=330&hide=jupyter%20notebook"/></a>
 </p>
